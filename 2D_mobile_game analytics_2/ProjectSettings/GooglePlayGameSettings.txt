@@ -1,0 +1,9 @@
+lastUpgrade=00964
+proj.pluginVersion=0.9.64
+proj.AppId=2278065404
+and.BundleId=com.DiegoTong.mobilegame
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e2278065404%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.DiegoTong.mobilegame%3c%2fstring%3e%0d%0a++%3c%21--achievement+Defeat+the+Boss--%3e%0d%0a++%3cstring+name%3d%22achievement_defeat_the_boss%22+translatable%3d%22false%22%3eCggI_ImivggQAhAC%3c%2fstring%3e%0d%0a++%3c%21--achievement+pass+level+3--%3e%0d%0a++%3cstring+name%3d%22achievement_pass_level_3%22+translatable%3d%22false%22%3eCggI_ImivggQAhAB%3c%2fstring%3e%0d%0a++%3c%21--achievement+Finisher--%3e%0d%0a++%3cstring+name%3d%22achievement_finisher%22+translatable%3d%22false%22%3eCggI_ImivggQAhAD%3c%2fstring%3e%0d%0a++%3c%21--achievement+You+are+dead--%3e%0d%0a++%3cstring+name%3d%22achievement_you_are_dead%22+translatable%3d%22false%22%3eCggI_ImivggQAhAE%3c%2fstring%3e%0d%0a++%3c%21--achievement+prism--%3e%0d%0a++%3cstring+name%3d%22achievement_prism%22+translatable%3d%22false%22%3eCggI_ImivggQAhAF%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+Highscore--%3e%0d%0a++%3cstring+name%3d%22leaderboard_highscore%22+translatable%3d%22false%22%3eCggI_ImivggQAhAA%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+android.SetupDone=true
